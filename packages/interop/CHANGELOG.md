@@ -1,5 +1,15 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/ipfs/helia/compare/interop-v1.0.3...interop-v1.0.4) (2023-10-11)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @helia/interface bumped from ^2.0.0 to ^2.1.0
+    * helia bumped from ^2.0.3 to ^2.1.0
+
 ### [1.0.3](https://www.github.com/ipfs/helia/compare/interop-v1.0.2...interop-v1.0.3) (2023-09-18)
 
 

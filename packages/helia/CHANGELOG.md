@@ -6,6 +6,25 @@
 * **dev:** bump aegir from 39.0.13 to 40.0.8 ([#198](https://github.com/ipfs/helia/issues/198)) ([4d75ecf](https://github.com/ipfs/helia/commit/4d75ecffb79e5177da35d3106e42dac7bc63153a))
 * update sibling dependencies ([beb10b5](https://github.com/ipfs/helia/commit/beb10b5590d66d1d5bef9b5e890b888263df2c92))
 
+## [2.1.0](https://www.github.com/ipfs/helia/compare/helia-v2.0.3...helia-v2.1.0) (2023-10-11)
+
+
+### Features
+
+* configurable block brokers ([#280](https://www.github.com/ipfs/helia/issues/280)) ([0749cbf](https://www.github.com/ipfs/helia/commit/0749cbf99745ea6ab4363f1b5d635634ca0ddcfa))
+
+
+### Bug Fixes
+
+* listen on ip6 addresses ([#271](https://www.github.com/ipfs/helia/issues/271)) ([7ef5e79](https://www.github.com/ipfs/helia/commit/7ef5e79620f043522ff0dacc260af1fe83e5d77e))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @helia/interface bumped from ^2.0.0 to ^2.1.0
+
 ### [2.0.3](https://www.github.com/ipfs/helia/compare/helia-v2.0.2...helia-v2.0.3) (2023-09-18)
 
 
